@@ -1,0 +1,11 @@
+{
+  "name": "micro-system",
+  "version": "0.0.1",
+  "description": "A control system",
+  "license": "GUN 3.0",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit#v2.1.1"
+  },
+  "targetDependencies": {},
+  "bin": "./source"
+}
